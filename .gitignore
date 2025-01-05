@@ -1,0 +1,39 @@
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django specific files
+*.log
+*.pot
+*.pyc
+*.mo
+
+# Environment variables
+.env
+djangoenv
+# Virtual Environment
+env/
+venv/
+ENV/
+.VE/
+.venv/
+
+# Database files
+*.sqlite3
+
+# Static and media files
+staticfiles/
+media/
+
+# Local settings
+local_settings.py
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

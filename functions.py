@@ -1,3 +1,5 @@
+# Description: This file contains the functions that will be used in the main.py file
+
 def display_info(name):
     return f"Hello World {name}"
 r=display_info("Joseph")
